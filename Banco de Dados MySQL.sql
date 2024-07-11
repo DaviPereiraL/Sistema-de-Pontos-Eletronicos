@@ -32,3 +32,5 @@ INSERT INTO Users (username, password) VALUES ('usuario_exemplo', 'senha_exemplo
 INSERT INTO Projects (name, description, ownerId) VALUES ('Projeto Exemplo', 'Descrição do Projeto Exemplo', 1);
 
 INSERT INTO ProjectEntries (userId, projectId, entryTime, exitTime) VALUES (1, 1, '2024-07-10 08:00:00', '2024-07-10 17:00:00');
+
+ALTER TABLE Projects ADD hours_spent datetime not null
