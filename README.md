@@ -29,7 +29,7 @@ Requisitos
 
 Instalação
 
-  - Clone o repositório: git clone https://github.com/seu-usuario/sistema-de-pontos-eletronicos.git
+  - Clone o repositório: git clone https://github.com/DaviPereiraL/Sistema-de-Pontos-Eletronicos.git
 
   - Navegue até o diretório do projeto: cd sistema-de-pontos-eletronicos
 
